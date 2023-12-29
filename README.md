@@ -1,14 +1,14 @@
 Hi 👋 My name is Paulo
 ==========================
 
-Starter Software Developer
+Starter Full Stack Developer
 -----------------------------
 
-I'm a 30 years old developer and hacking since I was 16. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front and back-end development, making applications that impact the life of thousands of users.
+I'm a 30 years old developer and hacking since I was 16. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front and back-end development to build Systems for automation, making applications that impact the life of thousands of users.
 
 * 🌍  I'm based in Sao Paulo, Brazil
 * ✉️  You can contact me at [paulobroccooxx@gmail.com](mailto:paulobroccooxx@gmail.com)
-* 🚀  I'm currently not working but I'm availible
+* 🚀  I'm currently working in my personal projects but I'm availible for a Job
 * 🧠  I am currently studying Internet Systems at FMU and Full Stack Trail at Codecademy
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
 * ⚡  I love movement and my favorite activities are cycling and hiking 
