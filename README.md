@@ -8,7 +8,7 @@ I'm a 30 years old developer and hacking since I was 16. I love to code and figu
 
 * 🌍  I'm based in Sao Paulo, Brazil
 * ✉️  You can contact me at [paulobroccooxx@gmail.com](mailto:paulobroccooxx@gmail.com)
-* 🚀  I'm currently working in my personal projects but I'm availible for a Job
+* 🚀  I'm currently working in my personal projects but I'm available for a Job
 * 🧠  I am currently studying Internet Systems at FMU and Full Stack Trail at Codecademy
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
 * ⚡  I love movement and my favorite activities are cycling and hiking 
