@@ -21,12 +21,16 @@ src="https://img.shields.io/github/followers/oxxorcus?logo=github&style=for-the-
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="PYTHON" /></a>
 Python - Expertise in building backend systems
+  
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 HTML5 - Crafting responsive and dynamic web pages
+
 <a href="https://www.w3.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 CSS3 - Styling modern web applications
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
 JavaScript - Building interactive web experiences
+
 </p>
 
 
@@ -35,12 +39,16 @@ JavaScript - Building interactive web experiences
 <p align="left"> 
 <a href="https://discord.com/users/paulobrocco5755" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
 Connect with me on Discord
+  
 <a href="https://www.github.com/OxxOrcus" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> 
 Check out my GitHub projects
+
 <a href="https://www.linkedin.com/in/paulo-brocco/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
 Connect with me on LinkedIn
+
 <a href="https://stackoverflow.com/users/21707769/paulo-brocco" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> 
 Follow me on Stack Overflow
+
 </p>
 
 
