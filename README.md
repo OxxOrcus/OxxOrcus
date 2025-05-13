@@ -4,9 +4,9 @@ Hi 👋 My name is Paulo
 Passionate Full Stack Developer
 -----------------------------
 
-I'm a 31-year-old developer from São Paulo, Brazil, with a love for coding that started at 16. I enjoy solving complex problems using cutting-edge technology. My focus is on front-end and back-end development to create systems for automation, impacting thousands of users.
+I'm a 32-year-old developer from São Paulo, Brazil, with a love for coding that started at 16. I enjoy solving complex problems using cutting-edge technology. My focus is on front-end and back-end development to create systems for automation, impacting thousands of users.
 
-* 🌍  Based in London, United Kingdom
+* 🌍  Based in Cork, Ireland
 * ✉️  Reach me at [paulobroccooxx@gmail.com](mailto:paulobroccooxx@gmail.com)
 * 🚀  Currently working on personal projects and open to job opportunities
 * 🧠  Studying Internet Systems at FMU and Full Stack Trail at Codecademy
