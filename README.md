@@ -47,26 +47,12 @@ I'm a 32-year-old (11.765 days) developer from São Paulo, Brazil, now based in 
 
 ---
 
-### GitHub Stats
-
-  <a href="https://github.com/oxxorcus" rel="noreferrer">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=oxxorcus&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak Stats"/>
-  </a>
- 
- </p>
-
 <h2 align="center">📊 Github Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OxxOrcus&show_icons=true&theme=dracula" alt="OxxOrcus's github stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=OxxOrcus&theme=dracula" alt="mystreak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OxxOrcus&layout=compact&theme=dracula" />
 </p>
-```
-
----
-
-Would you like specific code snippets for any of these features or help automating updates in your README?
----
 
 ### Support My Work
 
