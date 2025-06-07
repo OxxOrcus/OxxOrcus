@@ -25,6 +25,8 @@ I'm a 32-year-old (11.765 days) developer from São Paulo, Brazil, now based in 
 
 ---
 
+<h2 align="center">📊 Github Stats</h2>
+
   ![OxxOrcus's GitHub stats](https://github-readme-stats.vercel.app/api?username=OxxOrcus&show_icons=true&theme=radical)
 
   [![GitHub Streak](https://streak-stats.demolab.com?user=OxxOrcus&theme=radical)](https://git.io/streak-stats)
@@ -58,12 +60,6 @@ I'm a 32-year-old (11.765 days) developer from São Paulo, Brazil, now based in 
 
 ---
 
-<h2 align="center">📊 Github Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OxxOrcus&show_icons=true&theme=dracula" alt="OxxOrcus's github stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OxxOrcus&theme=dracula" alt="mystreak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OxxOrcus&layout=compact&theme=dracula" />
-</p>
 
 ### Support My Work
 
