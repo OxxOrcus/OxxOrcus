@@ -25,45 +25,16 @@ I'm a 32-year-old (11.765 days) developer from São Paulo, Brazil, now based in 
 
 ---
 
-https://github-readme-stats.vercel.app/api?username=OxxOrcus&show_icons=true&theme=radical)
+  ![OxxOrcus's GitHub stats](https://github-readme-stats.vercel.app/api?username=OxxOrcus&show_icons=true&theme=radical)
 
-- **GitHub Streak Stats**
-  (https://streak-stats.demolab.com?user=OxxOrcus&theme=radical)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=OxxOrcus&theme=radical)](https://git.io/streak-stats)
 
-- **Top Languages**
-  [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OxxOrcus&layout=compact&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OxxOrcus&layout=compact&theme=radical)
 
-
-## 2. Add Cool Widgets & Functions
-
-- **Visitor Counter*
   ![](https://komarev.com/ghpvc/?username=OxxOrcus)
 
-- **Trophies**
-[trophy](https://github-profile-trophy.vercel.app/?username=OxxOrcus)
+  ![trophy](https://github-profile-trophy.vercel.app/?username=OxxOrcus)
 
-
-- **Dynamic Quotes or Jokes**
-  Use shields.io or a dynamic API (like zenquotes.io) to show a random quote.
-
-- **Pinned Repos**
-  GitHub allows you to pin repositories for quick access and showcasing.
-
-## 3. Use Markdown Features for Structure
-
-- **Sections:**  
-  - About Me
-  - Skills
-  - Projects
-  - Blog Posts (can be automated with GitHub Actions)
-  - Contact
-
-- **Badges:**  
-  Add badges for languages, tools, or frameworks.
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-
-- 
 ---
 ### My Tech Stack
 
