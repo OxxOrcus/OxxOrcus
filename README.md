@@ -25,40 +25,23 @@ I'm a 32-year-old (11.765 days) developer from São Paulo, Brazil, now based in 
 
 ---
 
-
-To improve your GitHub profile README and make it more engaging with a dashboard and cool functions, here are some ideas and tips:
-
-## 1. Add a GitHub Stats Dashboard
-
-You can display your GitHub stats (like top languages, streaks, and contribution graphs) using shields or dynamic images. Popular tools:
-
-- **GitHub Readme Stats**  
-  Add this to your README:
-  ```md
-  ![OxxOrcus's GitHub stats](https://github-readme-stats.vercel.app/api?username=OxxOrcus&show_icons=true&theme=radical)
-  ```
+https://github-readme-stats.vercel.app/api?username=OxxOrcus&show_icons=true&theme=radical)
 
 - **GitHub Streak Stats**
-  ```md
-  [![GitHub Streak](https://streak-stats.demolab.com?user=OxxOrcus&theme=radical)](https://git.io/streak-stats)
-  ```
+  (https://streak-stats.demolab.com?user=OxxOrcus&theme=radical)](https://git.io/streak-stats)
 
 - **Top Languages**
-  ```md
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OxxOrcus&layout=compact&theme=radical)
-  ```
+  [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OxxOrcus&layout=compact&theme=radical)
+
 
 ## 2. Add Cool Widgets & Functions
 
-- **Visitor Counter**
-  ```md
+- **Visitor Counter*
   ![](https://komarev.com/ghpvc/?username=OxxOrcus)
-  ```
 
 - **Trophies**
-  ```md
-  ![trophy](https://github-profile-trophy.vercel.app/?username=OxxOrcus)
-  ```
+[trophy](https://github-profile-trophy.vercel.app/?username=OxxOrcus)
+
 
 - **Dynamic Quotes or Jokes**
   Use shields.io or a dynamic API (like zenquotes.io) to show a random quote.
@@ -77,36 +60,10 @@ You can display your GitHub stats (like top languages, streaks, and contribution
 
 - **Badges:**  
   Add badges for languages, tools, or frameworks.
-  ```md
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ```
 
-- **Animated GIFs**  
-  Show coding activity or personality with a relevant GIF.
 
-- **Social Links**  
-  Add icons/badges to your Twitter, LinkedIn, or personal website.
-
-## 4. Automate Updates
-
-You can automate parts of your README with GitHub Actions:
-- Update with your latest blog posts, YouTube videos, or tweets.
-- Show your current activity (like what repo you’re coding in).
-
-## Example Dashboard Section
-
-```md
-<h2 align="center">📊 Github Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OxxOrcus&show_icons=true&theme=dracula" alt="OxxOrcus's github stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OxxOrcus&theme=dracula" alt="mystreak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OxxOrcus&layout=compact&theme=dracula" />
-</p>
-```
-
----
-
-Would you like specific code snippets for any of these features or help automating updates in your README?
+- 
 ---
 ### My Tech Stack
 
