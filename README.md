@@ -10,7 +10,7 @@
 
 ### Passionate Full Stack Developer | Problem Solver | Automation Enthusiast
 
-I'm a 32-year-old (11.767 days) developer from São Paulo, Brazil, now based in Cork, Ireland. My coding journey began at 16, and I thrive on solving complex problems with cutting-edge technology. My expertise lies in **full-stack development**, creating robust systems for automation that impact thousands of users.
+I'm a 32-year-old (11.768 days) developer from São Paulo, Brazil, now based in Cork, Ireland. My coding journey began at 16, and I thrive on solving complex problems with cutting-edge technology. My expertise lies in **full-stack development**, creating robust systems for automation that impact thousands of users.
 
 ---
 
