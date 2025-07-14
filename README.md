@@ -31,11 +31,11 @@ I'm a 32-year-old (11.802 days) developer from São Paulo, Brazil, now based in 
 
   [![GitHub Streak](https://streak-stats.demolab.com?user=OxxOrcus&theme=radical)](https://git.io/streak-stats)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OxxOrcus&layout=compact&theme=radical)
+  [!][Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OxxOrcus&layout=compact&theme=radical)
 
-  [![](https://komarev.com/ghpvc/?username=OxxOrcus)
+  [!](https://komarev.com/ghpvc/?username=OxxOrcus)
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=OxxOrcus)
+  [!][trophy](https://github-profile-trophy.vercel.app/?username=OxxOrcus)
 
 ---
 ### My Tech Stack
