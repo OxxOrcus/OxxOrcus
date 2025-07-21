@@ -20,7 +20,7 @@ I'm a 32-year-old (11.809 days) developer from São Paulo, Brazil, now based in 
 - ✉️  **Email:** [paulobroccooxx@gmail.com](mailto:paulobroccooxx@gmail.com)
 - 🚀  **Availability:** Currently working on personal projects and open to job opportunities
 - 🧠  **Learning:** Internet Systems at FMU & Full Stack Trail at Codecademy
-- 🤝  **Collaboration:** Currently an intern at @Rebel
+- 🤝  **Collaboration:** Currently an intern at **rebel**
 - ⚡  **Hobbies:** Cycling and hiking
 
 ---
