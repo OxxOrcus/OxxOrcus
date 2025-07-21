@@ -33,7 +33,6 @@ I'm a 32-year-old (11.809 days) developer from São Paulo, Brazil, now based in 
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OxxOrcus&layout=compact&theme=radical)
 
-  ![](https://komarev.com/ghpvc/?username=OxxOrcus)
 
 ---
 ### My Tech Stack
