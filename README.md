@@ -28,22 +28,17 @@ I'm a dedicated Full Stack Developer with a passion for building innovative solu
 
 ## Featured Projects
 
-*This is where you can showcase your best work. Here are a few examples to get you started. You can replace them with your own projects.*
-
 | Project Name | Description | Technologies | Links |
 | :--- | :--- | :--- | :--- |
-| **Project 1** | A brief and compelling description of your project. | `JavaScript`, `React`, `Node.js` | [Live Demo](#) \| [GitHub Repo](#) |
-| **Project 2** | A brief and compelling description of your project. | `Python`, `Django`, `PostgreSQL` | [Live Demo](#) \| [GitHub Repo](#) |
-| **Project 3** | A brief and compelling description of your project. | `TypeScript`, `Next.js`, `GraphQL` | [Live Demo](#) \| [GitHub Repo](#) |
+| **Portfolio** | My main website about my experience and skills. | `HTML`, `CSS`, `JavaScript`, `React`, `Node.js` | [Access](https://portfolio-3ufl3jgnc-paulo-broccos-projects.vercel.app/) \| [GitHub Repo](https://github.com/OxxOrcus/Portfolio) |
 
 ---
 
 ## My Articles & Blog Posts
 
-*Sharing your knowledge is a great way to build your brand. Here are some placeholders for your articles.*
-
-- [My First Article Title](https://example.com) - *A short description of your article.*
-- [Another Article Title](https://example.com) - *A short description of your article.*
+- [Impact of Automation on the Tech Job Market](https://www.linkedin.com/pulse/impacto-da-automa%25C3%25A7%25C3%25A3o-mercado-de-trabalho-tech-paulo-brocco-sfqv-suiyf/?trackingId=MGRg7Eh%2BSZed%2Bw7l7f24%2Bw%3D%3D) - *This article explores the impacts of automation on the tech job market, highlighting both the opportunities and challenges it presents.*
+- [Dominando o Mundo Digital: Muito Além da Faculdade!](https://www.dio.me/articles/dominando-o-mundo-digital-muito-alem-da-faculdade) - *A complete journey into web development requires much more than just college. It requires going above and beyond, constantly seeking knowledge, and adapting to the new technologies that emerge every day.*
+- [So-Called Bad Colleges, Especially in Distance Learning](https://www.linkedin.com/pulse/faculdades-ditas-ruins-principalmente-ead-paulo-brocco-sfqv-nsirf/?trackingId=H%2FaQruJ%2BQBuT0drfIxdbcQ%3D%3D) - *A controversial yet important topic for many students: the quality of colleges, especially those offering distance learning (DL). I've heard diverse opinions on this topic, and I want to share my personal perspective with you.*
 
 ---
 
