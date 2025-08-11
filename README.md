@@ -10,7 +10,7 @@
 
 ### 🚀 Passionate Full Stack Developer | Problem Solver | Automation Enthusiast
 
-I'm a dedicated Full Stack Developer with a passion for building innovative solutions and automating complex processes. With nearly 5 years of hands-on experience, I thrive on tackling challenges and creating systems that deliver value to thousands of users. My journey in technology started at the age of 16, and I am continuously learning and evolving in the ever-changing tech landscape.
+I'm a dedicated Full Stack Developer with a passion for building innovative solutions and automating complex processes. With nearly 5 years of hands-on experience, I thrive on tackling challenges and creating systems that deliver value to thousands of users. My journey in technology started at the age of 16, and I am continuously learning and evolving in the ever-changing tech landscape. I have recently augmented my skills by completing an intensive bootcamp focused on modern mobile development.
 
 ---
 
@@ -20,9 +20,19 @@ I'm a dedicated Full Stack Developer with a passion for building innovative solu
 - 🎂 **Age:** 32 years old (I've been on this planet for (11.831 days)!)
 - ✉️ **Email:** [paulobroccooxx@gmail.com](mailto:paulobroccooxx@gmail.com)
 - 💼 **Availability:** Currently working on personal projects and open to new job opportunities.
-- 🎓 **Learning:** I'm currently expanding my knowledge in Internet Systems at FMU and completing the Full Stack Trail at Codecademy.
+- 🎓 **Learning:** I'm currently expanding my knowledge in Internet Systems at FMU and have recently completed an intensive bootcamp in mobile development.
 - 🤝 **Collaboration:** I'm an intern at **rebel**, where I'm gaining valuable experience.
 -  hobbies: In my free time, I enjoy cycling and hiking.
+
+---
+
+### 🚀 Recent Achievements & Certifications
+
+I have been certified in key technologies essential for modern mobile development, including: React Native, Node.js, JavaScript, NPM, Git, GitHub, GitHub Copilot, Expo and Prompt Engineering.
+
+A huge thank you to the instructors at DIO and the team at meutudo for this incredible learning opportunity. I am excited to apply these new skills to build innovative mobile solutions.
+
+I am currently exploring new opportunities in mobile development. Please feel free to connect or reach out!
 
 ---
 
@@ -49,6 +59,8 @@ I'm a dedicated Full Stack Developer with a passion for building innovative solu
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="JavaScript" title="JavaScript"></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="40" height="40" alt="TypeScript" title="TypeScript"></a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" height="40" alt="React" title="React"></a>
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" height="40" alt="React Native" title="React Native"></a>
+  <a href="https://expo.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/expo-colored.svg" width="40" height="40" alt="Expo" title="Expo"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" title="HTML5"></a>
   <a href="https://www.w3.org/TR/CSS/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" height="40" alt="CSS3" title="CSS3"></a>
 </p>
@@ -65,7 +77,17 @@ I'm a dedicated Full Stack Developer with a passion for building innovative solu
 <p align="center">
   <strong>Tools & Technologies:</strong><br>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" alt="Git" title="Git"></a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/github-colored.svg" width="40" height="40" alt="GitHub" title="GitHub"></a>
+  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/npm-colored.svg" width="40" height="40" alt="NPM" title="NPM"></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="40" height="40" alt="Docker" title="Docker"></a>
+</p>
+<h3 align="center">My New Toolkit</h3>
+<p align="center">
+✅ React Native<br>
+✅ Node.js<br>
+✅ JavaScript & NPM<br>
+✅ Git & GitHub<br>
+✅ AI-powered coding with GitHub Copilot & Prompt Engineering
 </p>
 
 ---
