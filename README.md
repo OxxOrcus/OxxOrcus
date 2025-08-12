@@ -74,11 +74,27 @@ I am currently exploring new opportunities in mobile development. Please feel fr
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="40" height="40" alt="PostgreSQL" title="PostgreSQL"></a>
 </p>
 <p align="center">
+  <strong>Cloud:</strong><br>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" width="40" height="40" alt="AWS" title="AWS"></a>
+  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gcp.png" width="40" height="40" alt="GCP" title="GCP"></a>
+  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/microsoft_azure.png" width="40" height="40" alt="Microsoft Azure" title="Microsoft Azure"></a>
+</p>
+<p align="center">
+  <strong>Operating Systems:</strong><br>
+  <a href="https://www.microsoft.com/windows/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" width="40" height="40" alt="Windows" title="Windows"></a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" width="40" height="40" alt="Linux" title="Linux"></a>
+  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png" width="40" height="40" alt="Ubuntu" title="Ubuntu"></a>
+  <a href="https://linuxmint.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux_mint.png" width="40" height="40" alt="Linux Mint" title="Linux Mint"></a>
+</p>
+<p align="center">
   <strong>Tools & Technologies:</strong><br>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" alt="Git" title="Git"></a>
   <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/github.svg" width="40" height="40" alt="GitHub" title="GitHub"></a>
   <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/npm.png" width="40" height="40" alt="NPM" title="NPM"></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="40" height="40" alt="Docker" title="Docker"></a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" width="40" height="40" alt="Visual Studio Code" title="Visual Studio Code"></a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" width="40" height="40" alt="Figma" title="Figma"></a>
+  <a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/canva.png" width="40" height="40" alt="Canva" title="Canva"></a>
 </p>
 
 ---
