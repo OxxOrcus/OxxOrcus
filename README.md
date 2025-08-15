@@ -30,8 +30,6 @@ I'm a dedicated Full Stack Developer with a passion for building innovative solu
 
 I have been certified in key technologies essential for modern mobile development, including: React Native, Node.js, JavaScript, NPM, Git, GitHub, GitHub Copilot, Expo and Prompt Engineering.
 
-A huge thank you to the instructors at DIO and the team at meutudo for this incredible learning opportunity. I am excited to apply these new skills to build innovative mobile solutions.
-
 I am currently exploring new opportunities in mobile development. Please feel free to connect or reach out!
 
 ---
