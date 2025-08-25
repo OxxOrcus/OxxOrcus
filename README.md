@@ -38,7 +38,7 @@ I am currently exploring new opportunities in mobile development. Please feel fr
 
 | Project Name | Description | Technologies | Links |
 | :--- | :--- | :--- | :--- |
-| **Portfolio** | My main website about my experience and skills. | `HTML`, `CSS`, `JavaScript`, `React`, `Node.js` | [Access](https://portfolio-3ufl3jgnc-paulo-broccos-projects.vercel.app/) \| [GitHub Repo](https://github.com/OxxOrcus/Portfolio) |
+| **Portfolio** | My main website about my experience and skills. | `HTML`, `CSS`, `JavaScript`, `React`, `Node.js` | [Access](https://paulo-brocco-dev-oxx-orcus.vercel.app/) \| [GitHub Repo](https://github.com/OxxOrcus/Portfolio) |
 
 ---
 
