@@ -17,7 +17,7 @@ I'm a dedicated Full Stack Developer with a passion for building innovative solu
 ### About Me
 
 - 🌍 **Location:** Cork, Ireland
-- 🎂 **Age:** 32 years old (I've been on this planet for (11.948 days)!)
+- 🎂 **Age:** 32 years old (I've been on this planet for (11.949 days)!)
 - ✉️ **Email:** [paulobroccooxx@gmail.com](mailto:paulobroccooxx@gmail.com)
 - 💼 **Availability:** Currently working on personal projects and open to new job opportunities.
 - 🎓 **Learning:** I'm currently expanding my knowledge in Internet Systems at FMU and have recently completed an intensive bootcamp in mobile development.
