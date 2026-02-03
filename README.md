@@ -10,7 +10,7 @@
 
 ### 🚀 Passionate Full Stack Developer | Problem Solver | Automation Enthusiast
 
-I'm a dedicated Full Stack Developer with a passion for building innovative solutions and automating complex processes. With nearly 5 years of hands-on experience, I thrive on tackling challenges and creating systems that deliver value to thousands of users. My journey in technology started at the age of 16, and I am continuously learning and evolving in the ever-changing tech landscape. I have recently augmented my skills by completing an intensive bootcamp focused on modern mobile development.
+I'm a dedicated Full Stack Developer with a passion for building innovative solutions and automating complex processes. With nearly 5 years of hands-on training and studing, I thrive on tackling challenges and creating systems that deliver value to users. My journey in technology started at the age of 16, and I am continuously learning and evolving in the ever-changing tech landscape. I have recently augmented my skills by completing an intensive bootcamp focused on modern mobile development.
 
 ---
 
