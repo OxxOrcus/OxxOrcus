@@ -1,28 +1,24 @@
 # Hi there, I'm Paulo Brocco 👋
 
-<p align="center">
-  <a href="https://www.github.com/oxxorcus" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/github/followers/oxxorcus?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" alt="GitHub followers"/>
-  </a>
-</p>
+[![GitHub followers](https://img.shields.io/github/followers/oxxorcus?logo=github&style=for-the-badge&color=3382ed&labelColor=171717)](https://www.github.com/oxxorcus) 
 
 ---
 
 ### 🚀 Passionate Full Stack Developer | Problem Solver | Automation Enthusiast
 
-I'm a dedicated Full Stack Developer with a passion for building innovative solutions and automating complex processes. With nearly 5 years of hands-on training and studing, I thrive on tackling challenges and creating systems that deliver value to users. My journey in technology started at the age of 16, and I am continuously learning and evolving in the ever-changing tech landscape. I have recently augmented my skills by completing an intensive bootcamp focused on modern mobile development.
+I'm a dedicated Full Stack Developer with a passion for building innovative solutions and automating complex processes. With nearly 5 years of hands-on training and studying, I thrive on tackling challenges and creating systems that deliver value to users. My journey in technology started at the age of 16, and I am continuously learning and evolving in the ever-changing tech landscape. I have recently augmented my skills by completing an intensive bootcamp focused on modern mobile development.
 
 ---
 
 ### About Me
 
-- 🌍 **Location:** Cork, Ireland
-- 🎂 **Age:** 32 years old (I've been on this planet for (12.047 days)!)
-- ✉️ **Email:** [paulobroccooxx@gmail.com](mailto:paulobroccooxx@gmail.com)
-- 💼 **Availability:** Currently working on personal projects and open to new job opportunities.
-- 🎓 **Learning:** I'm currently expanding my knowledge in Internet Systems at FMU and have recently completed an intensive bootcamp in mobile development.
-- 🤝 **Collaboration:** I'm an intern at **rebel**, where I'm gaining valuable experience.
--  hobbies: In my free time, I enjoy cycling and hiking.
+* 🌍 **Location:** Cork, Ireland
+* 🎂 **Age:** 32 years old (I've been on this planet for 12,047 days!)
+* ✉️ **Email:** [paulobroccooxx@gmail.com](mailto:paulobroccooxx@gmail.com)
+* 💼 **Availability:** Currently working on personal projects and open to new job opportunities.
+* 🎓 **Learning:** I'm currently expanding my knowledge in Internet Systems at FMU and have recently completed an intensive bootcamp in mobile development.
+* 🤝 **Collaboration:** I'm an intern at **rebel**, where I'm gaining valuable experience.
+* 🚵‍♂️ **Hobbies:** In my free time, I enjoy cycling and hiking.
 
 ---
 
@@ -34,87 +30,83 @@ I am currently exploring new opportunities in mobile development. Please feel fr
 
 ---
 
-## Featured Projects
+## 🌟 Featured Projects
 
 | Project Name | Description | Technologies | Links |
-| :--- | :--- | :--- | :--- |
+| --- | --- | --- | --- |
+| **ORBIT Nomad Hub** | A mobile app designed to connect and facilitate the lives of digital nomads and travelers. | `React Native`, `Expo`, `Tamagui` | [orbitonapp.com](https://orbitonapp.com) |
 | **Portfolio** | My main website about my experience and skills. | `HTML`, `CSS`, `JavaScript`, `React`, `Node.js` | [Access](https://paulo-brocco-dev-oxx-orcus.vercel.app/) \| [GitHub Repo](https://github.com/OxxOrcus/Portfolio) |
 
 ---
 
 ## My Articles & Blog Posts
 
-- [Impact of Automation on the Tech Job Market](https://www.linkedin.com/pulse/impacto-da-automa%25C3%25A7%25C3%25A3o-mercado-de-trabalho-tech-paulo-brocco-sfqv-suiyf/?trackingId=MGRg7Eh%2BSZed%2Bw7l7f24%2Bw%3D%3D) - *This article explores the impacts of automation on the tech job market, highlighting both the opportunities and challenges it presents.*
-- [Dominando o Mundo Digital: Muito Além da Faculdade!](https://www.dio.me/articles/dominando-o-mundo-digital-muito-alem-da-faculdade) - *A complete journey into web development requires much more than just college. It requires going above and beyond, constantly seeking knowledge, and adapting to the new technologies that emerge every day.*
-- [So-Called Bad Colleges, Especially in Distance Learning](https://www.linkedin.com/pulse/faculdades-ditas-ruins-principalmente-ead-paulo-brocco-sfqv-nsirf/?trackingId=H%2FaQruJ%2BQBuT0drfIxdbcQ%3D%3D) - *A controversial yet important topic for many students: the quality of colleges, especially those offering distance learning (DL). I've heard diverse opinions on this topic, and I want to share my personal perspective with you.*
+* [Impact of Automation on the Tech Job Market](https://www.linkedin.com/pulse/impacto-da-automa%25C3%25A7%25C3%25A3o-mercado-de-trabalho-tech-paulo-brocco-sfqv-suiyf/) - *This article explores the impacts of automation on the tech job market, highlighting both the opportunities and challenges it presents.*
+* [Dominando o Mundo Digital: Muito Além da Faculdade!](https://www.dio.me/articles/dominando-o-mundo-digital-muito-alem-da-faculdade) - *A complete journey into web development requires much more than just college. It requires going above and beyond, constantly seeking knowledge, and adapting to the new technologies that emerge every day.*
+* [So-Called Bad Colleges, Especially in Distance Learning](https://www.linkedin.com/pulse/faculdades-ditas-ruins-principalmente-ead-paulo-brocco-sfqv-nsirf/) - *A controversial yet important topic for many students: the quality of colleges, especially those offering distance learning (DL). I've heard diverse opinions on this topic, and I want to share my personal perspective with you.*
 
 ---
 
-<h2 align="center">My Tech Stack</h2>
+## My Tech Stack
 
-<p align="center">
-  <strong>Frontend:</strong><br>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="JavaScript" title="JavaScript"></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="40" height="40" alt="TypeScript" title="TypeScript"></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" height="40" alt="React" title="React"></a>
-  <a href="https://expo.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/expo-colored.svg" width="40" height="40" alt="Expo" title="Expo"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" title="HTML5"></a>
-  <a href="https://www.w3.org/TR/CSS/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" height="40" alt="CSS3" title="CSS3"></a>
-</p>
-<p align="center">
-  <strong>Backend:</strong><br>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40" alt="Python" title="Python"></a>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" width="40" height="40" alt="Node.js" title="Node.js"></a>
-</p>
-<p align="center">
-  <strong>Databases:</strong><br>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="40" height="40" alt="MySQL" title="MySQL"></a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="40" height="40" alt="PostgreSQL" title="PostgreSQL"></a>
-</p>
-<p align="center">
-  <strong>Cloud:</strong><br>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" width="40" height="40" alt="AWS" title="AWS"></a>
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gcp.png" width="40" height="40" alt="GCP" title="GCP"></a>
-  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/microsoft_azure.png" width="40" height="40" alt="Microsoft Azure" title="Microsoft Azure"></a>
-</p>
-<p align="center">
-  <strong>Operating Systems:</strong><br>
-  <a href="https://www.microsoft.com/windows/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" width="40" height="40" alt="Windows" title="Windows"></a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" width="40" height="40" alt="Linux" title="Linux"></a>
-  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png" width="40" height="40" alt="Ubuntu" title="Ubuntu"></a>
-  <a href="https://linuxmint.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux_mint.png" width="40" height="40" alt="Linux Mint" title="Linux Mint"></a>
-</p>
-<p align="center">
-  <strong>Tools & Technologies:</strong><br>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" alt="Git" title="Git"></a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/github.svg" width="40" height="40" alt="GitHub" title="GitHub"></a>
-  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/npm.png" width="40" height="40" alt="NPM" title="NPM"></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="40" height="40" alt="Docker" title="Docker"></a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" width="40" height="40" alt="Visual Studio Code" title="Visual Studio Code"></a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" width="40" height="40" alt="Figma" title="Figma"></a>
-  <a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/canva.png" width="40" height="40" alt="Canva" title="Canva"></a>
-</p>
+**Frontend:**
+
+[![JavaScript](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg "JavaScript")](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg "TypeScript")](https://www.typescriptlang.org/)
+[![React](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg "React")](https://reactjs.org/)
+[![Expo](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/expo-colored.svg "Expo")](https://expo.dev/)
+[![HTML5](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg "HTML5")](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
+[![CSS3](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg "CSS3")](https://www.w3.org/TR/CSS/)
+
+**Backend:**
+
+[![Python](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg "Python")](https://www.python.org/)
+[![Node.js](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png "Node.js")](https://nodejs.org/en/)
+
+**Databases:**
+
+[![MySQL](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg "MySQL")](https://www.mysql.com/)
+[![PostgreSQL](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg "PostgreSQL")](https://www.postgresql.org)
+
+**Cloud:**
+
+[![AWS](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png "AWS")](https://aws.amazon.com/)
+[![GCP](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gcp.png "GCP")](https://cloud.google.com/)
+[![Microsoft Azure](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/microsoft_azure.png "Microsoft Azure")](https://azure.microsoft.com/)
+
+**Operating Systems:**
+
+[![Windows](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png "Windows")](https://www.microsoft.com/windows/)
+[![Linux](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png "Linux")](https://www.linux.org/)
+[![Ubuntu](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png "Ubuntu")](https://ubuntu.com/)
+[![Linux Mint](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux_mint.png "Linux Mint")](https://linuxmint.com/)
+
+**Tools & Technologies:**
+
+[![Git](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg "Git")](https://git-scm.com/)
+[![GitHub](https://github.com/simple-icons/simple-icons/raw/develop/icons/github.svg "GitHub")](https://github.com/)
+[![NPM](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/npm.png "NPM")](https://www.npmjs.com/)
+[![Docker](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg "Docker")](https://www.docker.com/)
+[![Visual Studio Code](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png "Visual Studio Code")](https://code.visualstudio.com/)
+[![Figma](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png "Figma")](https://www.figma.com/)
+[![Canva](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/canva.png "Canva")](https://www.canva.com/)
 
 ---
 
-<h2 align="center">📊 My GitHub Stats</h2>
+## 📊 My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OxxOrcus&show_icons=true&theme=github_dark" alt="OxxOrcus's GitHub stats"/>
-  <img src="https://streak-stats.demolab.com?user=OxxOrcus&theme=github_dark" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OxxOrcus&layout=compact&theme=github_dark" alt="Top Langs"/>
-</p>
+[![OxxOrcus's GitHub stats](https://github-readme-stats.vercel.app/api?username=OxxOrcus&show_icons=true&theme=github_dark)](https://github.com/OxxOrcus)
+[![GitHub Streak](https://streak-stats.demolab.com?user=OxxOrcus&theme=github_dark)](https://github.com/OxxOrcus)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OxxOrcus&layout=compact&theme=github_dark)](https://github.com/OxxOrcus)
 
 ---
 
 ### Connect with Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/paulo-brocco/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="35" height="35" alt="LinkedIn"/></a>
-  <a href="https://www.github.com/OxxOrcus" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="35" height="35" alt="GitHub"/></a>
-  <a href="https://stackoverflow.com/users/21707769/paulo-brocco" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="35" height="35" alt="Stack Overflow"/></a>
-  <a href="https://discord.com/users/paulobrocco5755" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="35" height="35" alt="Discord"/></a>
-</p>
+[![LinkedIn](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg)](https://www.linkedin.com/in/paulo-brocco/)
+[![GitHub](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg)](https://www.github.com/OxxOrcus)
+[![Stack Overflow](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg)](https://stackoverflow.com/users/21707769/paulo-brocco)
+[![Discord](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg)](https://discord.com/users/paulobrocco5755)
 
 ---
 
@@ -122,8 +114,4 @@ I am currently exploring new opportunities in mobile development. Please feel fr
 
 If you find my projects and contributions helpful, please consider supporting my work. It helps me dedicate more time to open source and creating valuable content for the community.
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/OxxOrcusPBROCCO">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="180" alt="Buy Me A Coffee"/>
-  </a>
-</p>
+[![Buy Me A Coffee](https://camo.githubusercontent.com/0cf29a542375e1a46e84d8bf5805a4e5c0a6ee98b6547ccdc0c55eed49d99c69/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f64656661756c742d79656c6c6f772e706e67)](https://www.buymeacoffee.com/OxxOrcusPBROCCO)
