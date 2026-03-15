@@ -38,6 +38,7 @@ I am currently exploring new opportunities in mobile development. Please feel fr
 
 | Project Name | Description | Technologies | Links |
 | :--- | :--- | :--- | :--- |
+| **ORBIT Nomad Hub** | A comprehensive mobile app for tourists and digital nomads, offering tools like a Schengen Calculator, dynamic checklists, an AI-powered Planner/Assistant, dynamic guided maps and tours, and exclusive content. | `React Native`, `Expo`, `Tamagui` | [Website](https://orbitonapp.com) |
 | **Portfolio** | My main website about my experience and skills. | `HTML`, `CSS`, `JavaScript`, `React`, `Node.js` | [Access](https://paulo-brocco-dev-oxx-orcus.vercel.app/) \| [GitHub Repo](https://github.com/OxxOrcus/Portfolio) |
 
 ---
