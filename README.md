@@ -20,8 +20,8 @@ I'm a dedicated Full Stack Developer with a passion for building innovative solu
 - 🎂 **Age:** 32 years old (I've been on this planet for (12.052 days)!)
 - ✉️ **Email:** [paulobroccooxx@gmail.com](mailto:paulobroccooxx@gmail.com)
 - 💼 **Availability:** Currently working on personal projects and open to new job opportunities.
-- 🎓 **Learning:** I'm currently expanding my knowledge in Internet Systems at FMU and have recently completed an intensive bootcamp in mobile development.
-- 🤝 **Collaboration:** I'm an intern at **rebel**, where I'm gaining valuable experience.
+- 🎓 **Learning:** I'm currently expanding my knowledge in Internet Systems at FMU, while deep-diving into **Next.js (App Router)**, **Agentic AI integrations**, and **Cloud Native Architecture**.
+- 🤝 **Collaboration:** Software Developer at **rebel**, building scalable mobile and web solutions.
 -  hobbies: In my free time, I enjoy cycling and hiking.
 
 ---
@@ -51,6 +51,14 @@ I am currently exploring new opportunities in mobile development. Please feel fr
 
 ---
 
+## 🛠 Engineering Standards & Best Practices
+- **CI/CD Pipelines:** Implementation of automated builds and deployments using GitHub Actions.
+- **Test-Driven Development (TDD):** Employing Jest (JS/TS) and PyTest (Python) to ensure software reliability and maintainability.
+- **System Architecture:** Strong focus on clear, scalable system design, often documented using tools like Mermaid.js.
+- **Conventional Commits:** Strict adherence to semantic commit messaging (`feat:`, `fix:`, `chore:`) to maintain clean and readable history.
+
+---
+
 <h2 align="center">My Tech Stack</h2>
 
 <p align="center">
@@ -58,6 +66,7 @@ I am currently exploring new opportunities in mobile development. Please feel fr
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="JavaScript" title="JavaScript"></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="40" height="40" alt="TypeScript" title="TypeScript"></a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" height="40" alt="React" title="React"></a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="40" height="40" alt="Next.js" title="Next.js"></a>
   <a href="https://expo.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/expo-colored.svg" width="40" height="40" alt="Expo" title="Expo"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" title="HTML5"></a>
   <a href="https://www.w3.org/TR/CSS/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" height="40" alt="CSS3" title="CSS3"></a>
@@ -94,6 +103,12 @@ I am currently exploring new opportunities in mobile development. Please feel fr
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" width="40" height="40" alt="Visual Studio Code" title="Visual Studio Code"></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" width="40" height="40" alt="Figma" title="Figma"></a>
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/canva.png" width="40" height="40" alt="Canva" title="Canva"></a>
+</p>
+<p align="center">
+  <strong>Testing & Quality Assurance:</strong><br>
+  <a href="https://jestjs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jest.png" width="40" height="40" alt="Jest" title="Jest"></a>
+  <a href="https://pytest.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" width="40" height="40" alt="PyTest" title="PyTest"></a>
+  <a href="https://playwright.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/playwright.png" width="40" height="40" alt="Playwright" title="Playwright"></a>
 </p>
 
 ---
