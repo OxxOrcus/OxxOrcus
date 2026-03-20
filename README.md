@@ -10,14 +10,14 @@
 
 ### 🚀 Passionate Full Stack Developer | Problem Solver | Automation Enthusiast
 
-I'm a dedicated Full Stack Developer with a passion for building innovative solutions and automating complex processes. With nearly 5 years of hands-on experience, I thrive on tackling challenges and creating systems that deliver value to thousands of users. My journey in technology started at the age of 16, and I am continuously learning and evolving in the ever-changing tech landscape. I have recently augmented my skills by completing an intensive bootcamp focused on modern mobile development.
+I'm a dedicated Full Stack Developer with a passion for building innovative solutions and automating complex processes. With nearly 5 years of hands-on training and studing, I thrive on tackling challenges and creating systems that deliver value to users. My journey in technology started at the age of 16, and I am continuously learning and evolving in the ever-changing tech landscape. I have recently augmented my skills by completing an intensive bootcamp focused on modern mobile development.
 
 ---
 
 ### About Me
 
 - 🌍 **Location:** Cork, Ireland
-- 🎂 **Age:** 32 years old (I've been on this planet for (12.007 days)!)
+- 🎂 **Age:** 32 years old (I've been on this planet for (12.052 days)!)
 - ✉️ **Email:** [paulobroccooxx@gmail.com](mailto:paulobroccooxx@gmail.com)
 - 💼 **Availability:** Currently working on personal projects and open to new job opportunities.
 - 🎓 **Learning:** I'm currently expanding my knowledge in Internet Systems at FMU, while deep-diving into **Next.js (App Router)**, **Agentic AI integrations**, and **Cloud Native Architecture**.
@@ -38,8 +38,8 @@ I am currently exploring new opportunities in mobile development. Please feel fr
 
 | Project Name | Description | Technologies | Links |
 | :--- | :--- | :--- | :--- |
-| **Developer Platform (Portfolio)** | Performance-focused personal platform with responsive design. | `React`, `Node.js`, `CI/CD` | [Access](https://paulo-brocco-dev-oxx-orcus.vercel.app/) \| [GitHub Repo](https://github.com/OxxOrcus/Portfolio) |
-| **Stock Market Prediction API** | Real-time predictive modeling with automated CI/CD and unit testing (PyTest). *(Coming Soon - Refining Architecture)* | `Python`, `Machine Learning`, `FastAPI`, `GitHub Actions` | |
+| **ORBIT Nomad Hub** | A comprehensive mobile app for tourists and digital nomads, offering tools like a Schengen Calculator, dynamic checklists, an AI-powered Planner/Assistant, dynamic guided maps and tours, and exclusive content. | `React Native`, `Expo`, `Tamagui` | [Website](https://orbitonapp.com) |
+| **Portfolio** | My main website about my experience and skills. | `HTML`, `CSS`, `JavaScript`, `React`, `Node.js` | [Access](https://paulo-brocco-dev-oxx-orcus.vercel.app/) \| [GitHub Repo](https://github.com/OxxOrcus/Portfolio) |
 
 ---
 
