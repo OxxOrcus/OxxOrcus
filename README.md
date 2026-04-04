@@ -40,6 +40,9 @@ I am currently exploring new opportunities in mobile development. Please feel fr
 | :--- | :--- | :--- | :--- |
 | **ORBIT Nomad Hub** | A comprehensive mobile app for tourists and digital nomads, offering tools like a Schengen Calculator, dynamic checklists, an AI-powered Planner/Assistant, dynamic guided maps and tours, and exclusive content. | `React Native`, `Expo`, `Tamagui` | [Website](https://orbitonapp.com) |
 | **Portfolio** | My main website about my experience and skills. | `HTML`, `CSS`, `JavaScript`, `React`, `Node.js` | [Access](https://paulo-brocco-dev-oxx-orcus.vercel.app/) \| [GitHub Repo](https://github.com/OxxOrcus/Portfolio) |
+| **Grana Talk** | 💬 A sleek, modern web application designed for seamless interactive communication and data insights. | `Web App` | [Live Link](https://grana-talk.lovable.app/) |
+| **La Brisa Bar** | 🍹 A commercial web platform tailored for the hospitality industry, elevating the digital presence of La Brisa Bar. | `Hospitality` | [Live Link](http://la-brisa-bar.com/) |
+| **Paulo Brocco Portfolio** | 👨‍💻 My primary developer portfolio showcasing my full-stack capabilities. 🔒 *Note: The source code for this specific repository is completely private. Please click the live link to view the deployed application.* | `Web App`, `Portfolio` | [Live Link](https://paulo-brocco.lovable.app/) |
 
 ---
 
