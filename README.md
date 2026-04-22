@@ -119,9 +119,9 @@ I am currently exploring new opportunities in mobile development. Please feel fr
 <h2 align="center">📊 My GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OxxOrcus&show_icons=true&theme=github_dark" alt="OxxOrcus's GitHub stats"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=OxxOrcus&show_icons=true&theme=github_dark" alt="OxxOrcus's GitHub stats"/>
   <img src="https://streak-stats.demolab.com?user=OxxOrcus&theme=github_dark" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OxxOrcus&layout=compact&theme=github_dark" alt="Top Langs"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=OxxOrcus&layout=compact&theme=github_dark" alt="Top Langs"/>
 </p>
 
 ---
